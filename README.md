@@ -1,9 +1,10 @@
 # Connect-The-Islands
 This is a Data Structures and Algorithms Mini Project taken from a 2016 ACM-ICPC local contest.
 
-Colab Link
+Colab Link For NJIT memebers:
 
-https://colab.research.google.com/drive/1Vc6xeLFdI8GFphL5JWWaX_RQfTwTorRA
+
+https://drive.google.com/file/d/1Vc6xeLFdI8GFphL5JWWaX_RQfTwTorRA/view?usp=sharing
 
 The project explores a number of widely used data structures and algorithms.  
 There are several functions written in Python3 and an accompanying Jupyter Notebook detailing the process.
